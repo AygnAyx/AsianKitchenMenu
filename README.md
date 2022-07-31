@@ -4,4 +4,4 @@
 * Button efecti eklendi
 * Pencere boyu küçüldüğünde liste görünümü küçülüyor
 
-![](https://github.com/AygnAyx/ToDoList/blob/master/AsianKitchenMenuGif.gif)
+![](https://github.com/AygnAyx/AsianKitchenMenu/blob/master/AsianKitchenMenuGif.gif)
